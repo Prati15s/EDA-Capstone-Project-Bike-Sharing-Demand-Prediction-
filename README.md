@@ -1,7 +1,5 @@
 # EDA-Capstone-Project-Bike-Sharing-Demand-Prediction-
 
-## Bike Sharing Demand Prediction Capstone Project
-
 ### Project title - Seoul Bike Sharing Demand Prediction
 
 #### Description: 
